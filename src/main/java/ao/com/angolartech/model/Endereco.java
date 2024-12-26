@@ -40,7 +40,6 @@ public class Endereco implements Serializable {
     private String cidade;
 
 
-
     @Column(nullable = true)
     private String estado;
 
